@@ -1,3 +1,2 @@
-# PDB-sqler 
-
-A simple script to encode  PDB molecule structer into PostgreSQL database records.
+# PDB-sqler
+A simple script for converting PDB molecule data into SQL records (PostgreSQL)
